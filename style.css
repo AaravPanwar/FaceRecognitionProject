@@ -1,0 +1,28 @@
+body
+{
+    color: rgb(255, 255, 255);
+    background-color: peachpuff;
+}
+
+
+#heading
+{
+    width: 80%;
+    font-size: 22px;
+    font-family: monospace;
+}
+
+
+#camera
+{
+    border: 2px dotted skyblue;
+    width: 350px;
+    height: 300px;
+}
+
+
+#name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: orange;
+    font-size:18px
+}
